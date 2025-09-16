@@ -49,5 +49,5 @@ tasks:
 triggers:
   - action: email
     condition: always
-    to: chris.cannam@breakfastquay.com
+    to: lullaby0906@outlook.com
     
